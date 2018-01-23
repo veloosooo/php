@@ -1,3 +1,3 @@
 <?php 
 
-	var_dump("degub");
+	var_dump("XDebug");
